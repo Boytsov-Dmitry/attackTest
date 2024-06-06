@@ -1,4 +1,4 @@
-export default class Math {
+export default class MainMath {
     constructor () {
         this.stoned = false;
         this.distance = 1;
