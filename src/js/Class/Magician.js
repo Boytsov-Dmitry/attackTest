@@ -1,4 +1,4 @@
-import Math from './mainClass';
+import MainMath from './mainClass';
 
 export default class Magician extends Math {
     constructor() {
