@@ -1,6 +1,6 @@
 import MainMath from './mainClass';
 
-export default class Daemon extends Math {
+export default class Daemon extends MainMath {
     constructor() {
         super();
         this.attack = 100;
